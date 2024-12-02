@@ -1,0 +1,165 @@
+{
+  "statistics" : [ {
+    "comment" : "1",
+    "status" : "agree"
+  }, {
+    "comment" : "8",
+    "status" : "disagree"
+  }, {
+    "comment" : "9",
+    "status" : "agree"
+  }, {
+    "comment" : "10",
+    "status" : "agree"
+  }, {
+    "comment" : "12",
+    "status" : "inconclusive"
+  }, {
+    "comment" : "14",
+    "status" : "agree"
+  }, {
+    "comment" : "15",
+    "status" : "disagree"
+  }, {
+    "comment" : "25",
+    "status" : "disagree"
+  }, {
+    "comment" : "32",
+    "status" : "inconclusive"
+  }, {
+    "comment" : "34",
+    "status" : "disagree"
+  }, {
+    "comment" : "35",
+    "status" : "agree"
+  }, {
+    "comment" : "36",
+    "status" : "agree"
+  }, {
+    "comment" : "45",
+    "status" : "agree"
+  }, {
+    "comment" : "46",
+    "status" : "disagree"
+  }, {
+    "comment" : "47",
+    "status" : "agree"
+  }, {
+    "comment" : "54",
+    "status" : "agree"
+  }, {
+    "comment" : "55",
+    "status" : "agree"
+  }, {
+    "comment" : "56",
+    "status" : "agree"
+  }, {
+    "comment" : "59",
+    "status" : "agree"
+  }, {
+    "comment" : "60",
+    "status" : "inconclusive"
+  }, {
+    "comment" : "66",
+    "status" : "agree"
+  }, {
+    "comment" : "71",
+    "status" : "inconclusive"
+  }, {
+    "comment" : "73",
+    "status" : "disagree"
+  }, {
+    "comment" : "78",
+    "status" : "agree"
+  }, {
+    "comment" : "83",
+    "status" : "agree"
+  }, {
+    "comment" : "85",
+    "status" : "agree"
+  }, {
+    "comment" : "106",
+    "status" : "agree"
+  }, {
+    "comment" : "107",
+    "status" : "agree"
+  }, {
+    "comment" : "108",
+    "status" : "disagree"
+  }, {
+    "comment" : "110",
+    "status" : "agree"
+  }, {
+    "comment" : "112",
+    "status" : "agree"
+  }, {
+    "comment" : "116",
+    "status" : "agree"
+  }, {
+    "comment" : "118",
+    "status" : "agree"
+  }, {
+    "comment" : "120",
+    "status" : "disagree"
+  }, {
+    "comment" : "121",
+    "status" : "agree"
+  }, {
+    "comment" : "122",
+    "status" : "disagree"
+  }, {
+    "comment" : "124",
+    "status" : "agree"
+  }, {
+    "comment" : "126",
+    "status" : "agree"
+  }, {
+    "comment" : "128",
+    "status" : "agree"
+  }, {
+    "comment" : "132",
+    "status" : "agree"
+  }, {
+    "comment" : "141",
+    "status" : "disagree"
+  }, {
+    "comment" : "146",
+    "status" : "agree"
+  }, {
+    "comment" : "149",
+    "status" : "agree"
+  }, {
+    "comment" : "152",
+    "status" : "disagree"
+  }, {
+    "comment" : "153",
+    "status" : "agree"
+  }, {
+    "comment" : "158",
+    "status" : "agree"
+  }, {
+    "comment" : "159",
+    "status" : "disagree"
+  }, {
+    "comment" : "164",
+    "status" : "agree"
+  }, {
+    "comment" : "174",
+    "status" : "agree"
+  }, {
+    "comment" : "177",
+    "status" : "disagree"
+  }, {
+    "comment" : "178",
+    "status" : "agree"
+  }, {
+    "comment" : "179",
+    "status" : "disagree"
+  }, {
+    "comment" : "181",
+    "status" : "agree"
+  }, {
+    "comment" : "184",
+    "status" : "agree"
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "platform": "reddit",
+  "postUrl": "https://www.reddit.com/r/Cornell/comments/1g0irfr/what_are_the_ugliest_and_prettiest_buildings_on/",
+  "queries": {
+    "uris": "comments that think uris hall is the prettiest building",
+    "engineering": "comments that think engineering buildings are the prettiest",
+    "day-hall": "comments that think Day Hall is the prettiest",
+    "others": "comments that think other buildings are the prettiest"
+  }
+}

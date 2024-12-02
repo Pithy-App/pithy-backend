@@ -1,0 +1,12 @@
+{
+  "statistics" : [ {
+    "commentId" : "1",
+    "queryKey" : "agree"
+  }, {
+    "commentId" : "8",
+    "queryKey" : "disagree"
+  }, {
+    "commentId" : "9",
+    "queryKey" : "inconclusive"
+  } ]
+}
