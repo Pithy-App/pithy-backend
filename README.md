@@ -2,7 +2,9 @@
 `Pithy` is an application for sorting comments from popular social medias' posts by custom, plain-english queries.
 
 ## Pithy Backend
-** This is the public version of `pithy-backend` thus no commit history nor issues
+** This is the public version of `pithy-backend` thus no commit history nor issues.
+
+
 `pithy-backend` includes majority of the backend functionalities including but not limited to `authentication`, interactions with various `platform` APIs, `databases` etc.
 
 It is a highly robust and scalable application that takes advantage of Akka's powerful concurrency model throughout the entire application, making it a strong candidate for large number of concurrent users.
